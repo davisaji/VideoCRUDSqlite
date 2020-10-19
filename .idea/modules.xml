@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chapter 13-VideoCRUDSqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/Chapter 13-VideoCRUDSqlite.iml" group="VideoCRUDSqlite" />
       <module fileurl="file://$PROJECT_DIR$/VideoCRUDSqlite.iml" filepath="$PROJECT_DIR$/VideoCRUDSqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VideoCRUDSqlite-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VideoCRUDSqlite-app.iml" group="VideoCRUDSqlite/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
